@@ -17,7 +17,7 @@ Put the Koverage_Vis.py file into the 'koverage.out' folder after running the so
 
 This will create **Koverage_Report.html** in the koverage.out folder
 
-Link to example: 
+Link to example: https://github.com/biobrad/koverage_report/blob/main/Koverage_Report.html
 
 
 ![image](https://github.com/biobrad/koverage_report/assets/55652506/e3580dea-ecd6-4bd6-8230-0dd343c431d2)
