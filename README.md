@@ -3,6 +3,7 @@ Visualisation for Koverage Bioinformatics tool created by beardymcjohnface - htt
 
 ## dependencies
 datapane=0.16.7
+
 plotly=5.15.0
 
 ## Usage
